@@ -1,7 +1,6 @@
-Color Flipper
 ![Screen Short of Color Flipper](Screenshot-colorflipper.png)
 
-Live link
+Live link - https://yokesh-ks.github.io/JavaScript_Projects/01-Color-Flipper/
 
 Color Code Format
   1. rgba code - rgba(106, 90, 205)
