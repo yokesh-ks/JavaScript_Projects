@@ -3,13 +3,13 @@ const hoursE1 = document.getElementById('hours');
 const minutesE1 = document.getElementById('mins');
 const secondsE1 = document.getElementById('seconds');
 
-const newYear = "4 Nov 2021";
+const Diwali = "4 Nov 2021";
 
 function countdown() {
-    const newYearsDate = new Date(newYear);
+    const newDate = new Date(Diwali);
     const currentDate = new Date();
     
-    const milliSecond = (newYearsDate - currentDate) / 1000;
+    const milliSecond = (newDate - currentDate) / 1000;
 
     const days = Math.floor(milliSecond/3600 /24);
     const hours = Math.floor(milliSecond/3600) % 24;
