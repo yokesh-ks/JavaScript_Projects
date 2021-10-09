@@ -1,6 +1,6 @@
-![Screenshot of Carosel] (screenshot-carousel.png)
+![Screenshot of Carosel](screenshot-carousel.png)
 
-WebSite Link - 
+WebSite Link - https://yokesh-ks.github.io/JavaScript_Projects/03-Review-Carousel/
 ```
 const img = document.querySelector(".person-img");
 const author = document.getElementById("author");
