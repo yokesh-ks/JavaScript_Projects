@@ -1,4 +1,4 @@
-![Screenshot of Countdown Timer](screenshot.png)
+![Screenshot of Countdown Timer](screenshot-Countdown-timer.png)
 
 Website Link - https://yokesh-ks.github.io/JavaScript_Projects/04-Countdown-Timer/
 
