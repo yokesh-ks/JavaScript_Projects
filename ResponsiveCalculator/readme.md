@@ -2,6 +2,8 @@
 
 Live Link - https://yokesh-ks.github.io/JavaScript_Projects/ResponsiveCalculator/
 
+![Responsive Calculator](screenshot.png)
+
 1 rem = 16px;
 
 Desktop Screen Size = 1920px
