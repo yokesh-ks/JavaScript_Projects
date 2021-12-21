@@ -9,3 +9,5 @@
 4. Countdown-Timer - https://yokesh-ks.github.io/JavaScript_Projects/04-Countdown-Timer/
 
 5. Quiz App - https://yokesh-ks.github.io/JavaScript_Projects/05-Quiz-App
+
+6. Responsive Calculator - https://yokesh-ks.github.io/JavaScript_Projects/ResponsiveCalculator/
